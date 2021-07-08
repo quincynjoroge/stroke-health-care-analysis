@@ -4,6 +4,8 @@ By **George Kamau, Mildred Kulei, Beaty Kiplagat, Kelvin Njunge, Quincy Wambui,a
 ## Description
 This is a health-based research project with a focus on the events of stroke. The majority of the population that suffer from stroke are the elderly who are left disabled by the event. Aging has been identified to be the most robust non-modifiable risk factor for stroke, which doubles the risk every 10 years after 55 years. 
 For our study, we would like to clearly understand the relationship between the different risk factors, but mainly age, and prevalence of stroke.
+
+You can Find the link to our visualizations and presentations here :[Powerpoint](https://docs.google.com/presentation/d/1GCPzv_YY1s1rl7-HMxcx3f30Fpyw2u9UqEn5kmZbf1A/edit#slide=id.p), [Tableau](https://public.tableau.com/app/profile/beaty.kiplagat2308/viz/StrokeAnalysis_16256909673520/StrokeAnalysis).
 ### Objectives.
 > To test the hypothesis that the mean age of stroke patients is less than the world life expectancy rate.
 
